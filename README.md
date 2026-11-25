@@ -1,7 +1,7 @@
 # HydroEval
 A large language model capability evaluation set containing 622 Q&amp;A pairs in the field of hydraulic structures.
 
-**The data referenced here corresponds to that of our manuscript, and the relevant dataset will be made publicly available after the manuscript passes peer review.**
+**The data referenced here corresponds to that of our manuscript“多维奖励驱动的大模型水利知识内化与推理增强方法 http://www.slfdxb.cn/CN/abstract/abstract13866.shtml”, and the relevant dataset will be made publicly available after the manuscript passes peer review.**
 
 This is a large language model capability evaluation set containing 622 questions in the field of hydraulic structures. The evaluation set comprehensively covers major sub-disciplines of hydraulic engineering including hydraulic tunnels, dams, hydropower stations, sluice gates, and flood discharge facilities in terms of content, and evenly includes four question types: signal-choice, fill-in-the-blank, true/false, and short answer.
 
@@ -21,10 +21,10 @@ Prompt 4: Scoring rules for fill-in-the-blank and short answer questions on prof
 
 Table A: Examples of model answers not following the specified format	9
 
-Table B: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – True/False	13
+Table B: Hydraulic Structure Answers and LLM Scoring Examples (Including HydrostructureGPT) – True/False	13
 
-Table C: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Fill-in-the-blank	18
+Table C: Hydraulic Structure Answers and LLM Scoring Examples (Including HydrostructureGPT) – Fill-in-the-blank	18
 
-Table D: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Short answer	24
+Table D: Hydraulic Structure Answers and LLM Scoring Examples (Including HydrostructureGPT) – Short answer	24
 
-Table E: Hydraulic Structure Answers and LLM Scoring Examples (Including HydroGPT) – Multiple-choice	32
+Table E: Hydraulic Structure Answers and LLM Scoring Examples (Including HydrostructureGPT) – Multiple-choice	32
