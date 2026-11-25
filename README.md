@@ -7,7 +7,7 @@ This is a large language model capability evaluation set containing 622 question
 
 
 # Appendix
-Contains the key prompts used in this study and a comparison of reasoning performance between HydroGPT and other models.
+Contains the key prompts used in this study and a comparison of reasoning performance between HydrostructureGPT and other models.
 
 **Contents**
 
